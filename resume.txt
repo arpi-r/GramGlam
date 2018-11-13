@@ -1,0 +1,37 @@
+                       		              <NAME>
+
+         Phone Number : [Enter number]                      Email:  [enter email]  
+	 Address : [Enter address]                          
+
+Personal details:
+
+	[ Enter personal details]
+	
+
+
+Qualifications:
+	
+	School :    [ Enter High School details ] [ Year of passing ] [ Passing grade ]
+	College :   [ Enter college ] [ Year of passing ] [ Passing grade ]
+		
+Training:
+	
+	[ Enter training details ]
+
+Employment:
+	
+	[ Enter previous employment ]
+
+Interests:
+
+	[ Enter hobbies and interets ]
+
+Achievements:
+	
+	[ Enter achievements ]
+
+
+References:
+
+	[ Enter references ]
+

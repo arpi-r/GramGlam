@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "Synonym Checker"
-echo "Enter the word for which you "
+echo "Enter the word for which you want the synonym: "
 read word 
 echo "Synonyms of the given word are:"
 grep -i "$word" synonyms | sed "s/, /\n/g" >tempsyn
@@ -15,8 +15,7 @@ then
 	echo "Enter file name "
 	read file 
 	val=`head -n $num tempsyn | tail -n 1`
-	echo $val
+	#echo $val
 	sed -i "s/$word/$val/g" $file 
 	echo "Done!"
 fi
-

@@ -1,0 +1,23 @@
+[Date]
+
+From: [Sender Name]
+
+[Title] | [Company] | [Address] | [City] | [State] | [Zip]
+
+To: [Recipient Name]
+
+[Title] | [Company] | [Address] | [City] | [State] | [Zip]
+
+Dear [Recipient Name]:
+
+	[Introduction]
+
+	[Main Body]
+
+	[Conclusion]
+
+Sincerely,
+
+[Your Name]
+
+[Title]

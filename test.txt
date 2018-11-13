@@ -1,0 +1,6 @@
+true
+bad
+proper
+ha
+hello
+go
