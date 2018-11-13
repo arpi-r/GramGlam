@@ -28,8 +28,8 @@ do
     		:
 
     else
-    	touch temp
-    	rm temp
+	touch temp
+	rm temp
     	j=`expr "$j+1" | bc`
     	echo "Suggested error $j) $word : "
     	i=0
@@ -83,3 +83,11 @@ do
     fi
 done
 echo "No more suggestions in this run."
+
+
+echo "Do you wish to enter again (yes=1/no=0): "
+read menu
+if [ $menu -eq 1 ]
+then 
+	exec ./master.sh
+fi
